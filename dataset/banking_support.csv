@@ -1,0 +1,665 @@
+id,ticket_id,category,priority,question,response
+1,TKT100000,UPI,High,Please assist. yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+2,TKT100001,Debit Card,High,I need help because I have a lost card issue.,Block your debit card immediately and request a replacement.
+3,TKT100002,UPI,High,today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+4,TKT100003,UPI,High,Can you help me? yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+5,TKT100004,UPI,High,Can you help me? I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+6,TKT100005,KYC,Medium,I have a update issue.,Submit valid KYC documents online or at your branch.
+7,TKT100006,Loans,Medium,Can you help me? at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+8,TKT100007,Loans,Medium,Can you help me? yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+9,TKT100008,Loans,Medium,I need help because at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+10,TKT100009,UPI,High,Please assist. I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+11,TKT100010,Loans,Medium,I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+12,TKT100011,UPI,High,I need help because I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+13,TKT100012,Loans,Medium,Urgent: while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+14,TKT100013,Debit Card,High,I need help because today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+15,TKT100014,Debit Card,High,I need help because yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+16,TKT100015,UPI,High,Please assist. at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+17,TKT100016,Loans,Medium,Please assist. while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+18,TKT100017,Debit Card,High,Please assist. today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+19,TKT100018,Debit Card,High,Can you help me? yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+20,TKT100019,KYC,Medium,Please assist. I have a expired issue.,Update your KYC to avoid interruption of banking services.
+21,TKT100020,Debit Card,High,Please assist. today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+22,TKT100021,Debit Card,High,Please assist. at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+23,TKT100022,Loans,Medium,Can you help me? I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+24,TKT100023,Loans,Medium,at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+25,TKT100024,KYC,Medium,Please assist. yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+26,TKT100025,Debit Card,High,Urgent: I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+27,TKT100026,Loans,Medium,Urgent: at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+28,TKT100027,KYC,Medium,Can you help me? yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+29,TKT100028,KYC,Medium,I need help because today I have a update issue.,Submit valid KYC documents online or at your branch.
+30,TKT100029,Debit Card,High,Can you help me? at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+31,TKT100030,UPI,High,I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+32,TKT100031,KYC,Medium,Please assist. I have a PAN update issue.,Submit your PAN update request with supporting documents.
+33,TKT100032,UPI,High,I need help because I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+34,TKT100033,Loans,Medium,Please assist. today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+35,TKT100034,Loans,Medium,Can you help me? at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+36,TKT100035,UPI,High,Please assist. I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+37,TKT100036,Debit Card,High,I need help because while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+38,TKT100037,Debit Card,High,Please assist. yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+39,TKT100038,UPI,High,Please assist. at an ATM I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+40,TKT100039,UPI,High,Please assist. while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+41,TKT100040,Debit Card,High,Can you help me? I have a lost card issue.,Block your debit card immediately and request a replacement.
+42,TKT100041,UPI,High,today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+43,TKT100042,Debit Card,High,I have a lost card issue.,Block your debit card immediately and request a replacement.
+44,TKT100043,Debit Card,High,Urgent: I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+45,TKT100044,KYC,Medium,Urgent: yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+46,TKT100045,Loans,Medium,Please assist. at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+47,TKT100046,KYC,Medium,Can you help me? yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+48,TKT100047,UPI,High,I need help because I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+49,TKT100048,Debit Card,High,Can you help me? today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+50,TKT100049,UPI,High,I need help because yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+51,TKT100050,UPI,High,Please assist. today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+52,TKT100051,Debit Card,High,yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+53,TKT100052,Debit Card,High,Urgent: I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+54,TKT100053,KYC,Medium,at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+55,TKT100054,Debit Card,High,I need help because at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+56,TKT100055,Loans,Medium,at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+57,TKT100056,UPI,High,I need help because today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+58,TKT100057,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+59,TKT100058,Debit Card,High,Can you help me? I have a lost card issue.,Block your debit card immediately and request a replacement.
+60,TKT100059,KYC,Medium,yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+61,TKT100060,Loans,Medium,Can you help me? today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+62,TKT100061,KYC,Medium,I need help because today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+63,TKT100062,UPI,High,Can you help me? yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+64,TKT100063,KYC,Medium,yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+65,TKT100064,KYC,Medium,Can you help me? at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+66,TKT100065,UPI,High,Please assist. at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+67,TKT100066,Loans,Medium,Urgent: at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+68,TKT100067,Debit Card,High,Please assist. yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+69,TKT100068,UPI,High,Urgent: today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+70,TKT100069,Loans,Medium,I need help because I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+71,TKT100070,KYC,Medium,Urgent: yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+72,TKT100071,UPI,High,I need help because yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+73,TKT100072,UPI,High,I need help because yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+74,TKT100073,KYC,Medium,Urgent: yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+75,TKT100074,UPI,High,I need help because at an ATM I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+76,TKT100075,Loans,Medium,Can you help me? while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+77,TKT100076,Debit Card,High,yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+78,TKT100077,Loans,Medium,Please assist. today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+79,TKT100078,UPI,High,Urgent: I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+80,TKT100079,UPI,High,Urgent: yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+81,TKT100080,Loans,Medium,Please assist. today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+82,TKT100081,Debit Card,High,Please assist. yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+83,TKT100082,KYC,Medium,Please assist. I have a PAN update issue.,Submit your PAN update request with supporting documents.
+84,TKT100083,UPI,High,Urgent: while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+85,TKT100084,UPI,High,Please assist. today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+86,TKT100085,UPI,High,Urgent: yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+87,TKT100086,Loans,Medium,Urgent: yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+88,TKT100087,Loans,Medium,Please assist. I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+89,TKT100088,KYC,Medium,I need help because today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+90,TKT100089,KYC,Medium,I need help because today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+91,TKT100090,Loans,Medium,Please assist. yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+92,TKT100091,KYC,Medium,I have a PAN update issue.,Submit your PAN update request with supporting documents.
+93,TKT100092,UPI,High,I need help because yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+94,TKT100093,UPI,High,Urgent: I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+95,TKT100094,Debit Card,High,Can you help me? today I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+96,TKT100095,Loans,Medium,I need help because while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+97,TKT100096,Debit Card,High,Can you help me? today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+98,TKT100097,Loans,Medium,I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+99,TKT100098,Debit Card,High,Can you help me? yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+100,TKT100099,KYC,Medium,Can you help me? while using mobile banking I have a update issue.,Submit valid KYC documents online or at your branch.
+101,TKT100100,KYC,Medium,Can you help me? while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+102,TKT100101,Debit Card,High,I need help because at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+103,TKT100102,UPI,High,Can you help me? yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+104,TKT100103,KYC,Medium,Please assist. yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+105,TKT100104,Debit Card,High,Can you help me? at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+106,TKT100105,Loans,Medium,I need help because while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+107,TKT100106,Loans,Medium,Urgent: at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+108,TKT100107,Loans,Medium,I need help because while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+109,TKT100108,Debit Card,High,Please assist. today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+110,TKT100109,UPI,High,while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+111,TKT100110,Loans,Medium,Urgent: I have a loan statement issue.,Download it through internet banking or request it from your branch.
+112,TKT100111,UPI,High,Urgent: yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+113,TKT100112,Loans,Medium,today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+114,TKT100113,Debit Card,High,today I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+115,TKT100114,Loans,Medium,Please assist. today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+116,TKT100115,Loans,Medium,Please assist. at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+117,TKT100116,Loans,Medium,Please assist. I have a loan statement issue.,Download it through internet banking or request it from your branch.
+118,TKT100117,Debit Card,High,at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+119,TKT100118,Debit Card,High,Urgent: while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+120,TKT100119,KYC,Medium,I need help because while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+121,TKT100120,Loans,Medium,I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+122,TKT100121,Loans,Medium,at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+123,TKT100122,Debit Card,High,yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+124,TKT100123,UPI,High,Urgent: I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+125,TKT100124,Loans,Medium,Can you help me? while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+126,TKT100125,Debit Card,High,Can you help me? today I have a lost card issue.,Block your debit card immediately and request a replacement.
+127,TKT100126,UPI,High,I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+128,TKT100127,UPI,High,I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+129,TKT100128,Debit Card,High,at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+130,TKT100129,KYC,Medium,Can you help me? today I have a update issue.,Submit valid KYC documents online or at your branch.
+131,TKT100130,UPI,High,Can you help me? yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+132,TKT100131,KYC,Medium,Urgent: yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+133,TKT100132,UPI,High,Can you help me? at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+134,TKT100133,Loans,Medium,Urgent: I have a loan statement issue.,Download it through internet banking or request it from your branch.
+135,TKT100134,KYC,Medium,yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+136,TKT100135,KYC,Medium,Please assist. yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+137,TKT100136,Loans,Medium,yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+138,TKT100137,Loans,Medium,I need help because while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+139,TKT100138,Debit Card,High,Please assist. while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+140,TKT100139,UPI,High,Can you help me? yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+141,TKT100140,KYC,Medium,Can you help me? yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+142,TKT100141,UPI,High,while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+143,TKT100142,KYC,Medium,I need help because yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+144,TKT100143,KYC,Medium,Urgent: today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+145,TKT100144,KYC,Medium,I need help because while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+146,TKT100145,Loans,Medium,I have a loan statement issue.,Download it through internet banking or request it from your branch.
+147,TKT100146,Debit Card,High,Can you help me? while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+148,TKT100147,KYC,Medium,I need help because at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+149,TKT100148,Loans,Medium,yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+150,TKT100149,KYC,Medium,Urgent: I have a update issue.,Submit valid KYC documents online or at your branch.
+151,TKT100150,UPI,High,Urgent: I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+152,TKT100151,UPI,High,yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+153,TKT100152,KYC,Medium,I need help because while using mobile banking I have a update issue.,Submit valid KYC documents online or at your branch.
+154,TKT100153,KYC,Medium,Can you help me? at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+155,TKT100154,Loans,Medium,while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+156,TKT100155,KYC,Medium,I need help because at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+157,TKT100156,UPI,High,Urgent: today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+158,TKT100157,Loans,Medium,I need help because today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+159,TKT100158,UPI,High,Can you help me? today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+160,TKT100159,Debit Card,High,Can you help me? at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+161,TKT100160,UPI,High,Can you help me? at an ATM I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+162,TKT100161,Loans,Medium,Can you help me? I have a loan statement issue.,Download it through internet banking or request it from your branch.
+163,TKT100162,UPI,High,Please assist. today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+164,TKT100163,UPI,High,Urgent: at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+165,TKT100164,KYC,Medium,Can you help me? today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+166,TKT100165,Debit Card,High,Please assist. I have a lost card issue.,Block your debit card immediately and request a replacement.
+167,TKT100166,UPI,High,I need help because while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+168,TKT100167,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+169,TKT100168,Loans,Medium,at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+170,TKT100169,UPI,High,Please assist. at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+171,TKT100170,Debit Card,High,Can you help me? I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+172,TKT100171,Loans,Medium,Urgent: at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+173,TKT100172,KYC,Medium,Urgent: while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+174,TKT100173,Loans,Medium,I need help because while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+175,TKT100174,KYC,Medium,I have a update issue.,Submit valid KYC documents online or at your branch.
+176,TKT100175,KYC,Medium,I need help because at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+177,TKT100176,Loans,Medium,yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+178,TKT100177,Loans,Medium,Please assist. while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+179,TKT100178,Loans,Medium,I need help because I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+180,TKT100179,Debit Card,High,Can you help me? at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+181,TKT100180,KYC,Medium,Can you help me? at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+182,TKT100181,KYC,Medium,I need help because today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+183,TKT100182,Loans,Medium,yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+184,TKT100183,Loans,Medium,Urgent: while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+185,TKT100184,KYC,Medium,Urgent: while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+186,TKT100185,KYC,Medium,Urgent: while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+187,TKT100186,Loans,Medium,while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+188,TKT100187,Loans,Medium,Can you help me? today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+189,TKT100188,Debit Card,High,I need help because I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+190,TKT100189,Debit Card,High,Can you help me? at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+191,TKT100190,Loans,Medium,Urgent: I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+192,TKT100191,Loans,Medium,Can you help me? while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+193,TKT100192,Debit Card,High,Can you help me? while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+194,TKT100193,UPI,High,Urgent: yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+195,TKT100194,Loans,Medium,I need help because I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+196,TKT100195,Loans,Medium,Can you help me? at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+197,TKT100196,UPI,High,Urgent: while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+198,TKT100197,KYC,Medium,while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+199,TKT100198,Debit Card,High,Please assist. at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+200,TKT100199,UPI,High,at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+201,TKT100200,UPI,High,I need help because yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+202,TKT100201,Debit Card,High,Please assist. today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+203,TKT100202,Debit Card,High,Urgent: at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+204,TKT100203,Debit Card,High,at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+205,TKT100204,KYC,Medium,Urgent: at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+206,TKT100205,Loans,Medium,Urgent: today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+207,TKT100206,UPI,High,Can you help me? while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+208,TKT100207,UPI,High,Can you help me? yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+209,TKT100208,UPI,High,I need help because at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+210,TKT100209,KYC,Medium,Urgent: at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+211,TKT100210,Loans,Medium,Can you help me? while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+212,TKT100211,Loans,Medium,today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+213,TKT100212,Debit Card,High,Urgent: yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+214,TKT100213,KYC,Medium,Urgent: yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+215,TKT100214,Debit Card,High,Can you help me? today I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+216,TKT100215,UPI,High,Please assist. I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+217,TKT100216,Loans,Medium,I need help because at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+218,TKT100217,Loans,Medium,while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+219,TKT100218,KYC,Medium,I need help because I have a expired issue.,Update your KYC to avoid interruption of banking services.
+220,TKT100219,UPI,High,Please assist. I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+221,TKT100220,Loans,Medium,I need help because yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+222,TKT100221,UPI,High,Please assist. I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+223,TKT100222,UPI,High,I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+224,TKT100223,KYC,Medium,Can you help me? I have a expired issue.,Update your KYC to avoid interruption of banking services.
+225,TKT100224,KYC,Medium,today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+226,TKT100225,KYC,Medium,while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+227,TKT100226,Loans,Medium,I need help because yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+228,TKT100227,Loans,Medium,while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+229,TKT100228,KYC,Medium,I need help because at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+230,TKT100229,UPI,High,Please assist. while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+231,TKT100230,UPI,High,Urgent: today I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+232,TKT100231,KYC,Medium,I need help because yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+233,TKT100232,Loans,Medium,at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+234,TKT100233,UPI,High,Please assist. I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+235,TKT100234,Debit Card,High,at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+236,TKT100235,UPI,High,Urgent: yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+237,TKT100236,Debit Card,High,Urgent: today I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+238,TKT100237,KYC,Medium,Can you help me? today I have a update issue.,Submit valid KYC documents online or at your branch.
+239,TKT100238,KYC,Medium,Can you help me? at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+240,TKT100239,Loans,Medium,Please assist. at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+241,TKT100240,KYC,Medium,Can you help me? at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+242,TKT100241,Debit Card,High,Can you help me? I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+243,TKT100242,Debit Card,High,Please assist. at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+244,TKT100243,Loans,Medium,Please assist. today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+245,TKT100244,Loans,Medium,Please assist. I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+246,TKT100245,KYC,Medium,I have a update issue.,Submit valid KYC documents online or at your branch.
+247,TKT100246,KYC,Medium,Please assist. I have a expired issue.,Update your KYC to avoid interruption of banking services.
+248,TKT100247,KYC,Medium,Please assist. yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+249,TKT100248,Debit Card,High,yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+250,TKT100249,KYC,Medium,Please assist. at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+251,TKT100250,KYC,Medium,Can you help me? at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+252,TKT100251,UPI,High,Urgent: I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+253,TKT100252,Loans,Medium,today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+254,TKT100253,KYC,Medium,Can you help me? at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+255,TKT100254,Debit Card,High,while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+256,TKT100255,Loans,Medium,today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+257,TKT100256,Loans,Medium,Urgent: at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+258,TKT100257,Loans,Medium,I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+259,TKT100258,UPI,High,I need help because yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+260,TKT100259,Loans,Medium,I need help because at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+261,TKT100260,UPI,High,I need help because at an ATM I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+262,TKT100261,Debit Card,High,Please assist. today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+263,TKT100262,UPI,High,I need help because while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+264,TKT100263,Loans,Medium,yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+265,TKT100264,Debit Card,High,I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+266,TKT100265,Debit Card,High,Can you help me? today I have a lost card issue.,Block your debit card immediately and request a replacement.
+267,TKT100266,KYC,Medium,Can you help me? at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+268,TKT100267,Debit Card,High,while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+269,TKT100268,KYC,Medium,I need help because at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+270,TKT100269,Loans,Medium,Urgent: yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+271,TKT100270,UPI,High,Please assist. I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+272,TKT100271,Loans,Medium,while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+273,TKT100272,KYC,Medium,Can you help me? at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+274,TKT100273,KYC,Medium,Can you help me? at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+275,TKT100274,Loans,Medium,Please assist. while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+276,TKT100275,UPI,High,while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+277,TKT100276,UPI,High,I need help because I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+278,TKT100277,KYC,Medium,Can you help me? I have a expired issue.,Update your KYC to avoid interruption of banking services.
+279,TKT100278,Loans,Medium,Can you help me? I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+280,TKT100279,Loans,Medium,Can you help me? today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+281,TKT100280,UPI,High,today I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+282,TKT100281,Loans,Medium,Can you help me? today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+283,TKT100282,Loans,Medium,yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+284,TKT100283,Debit Card,High,Urgent: while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+285,TKT100284,Loans,Medium,Please assist. at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+286,TKT100285,Loans,Medium,Please assist. today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+287,TKT100286,KYC,Medium,Can you help me? yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+288,TKT100287,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+289,TKT100288,KYC,Medium,Please assist. I have a update issue.,Submit valid KYC documents online or at your branch.
+290,TKT100289,UPI,High,Please assist. while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+291,TKT100290,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+292,TKT100291,Debit Card,High,I need help because I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+293,TKT100292,Loans,Medium,Can you help me? today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+294,TKT100293,KYC,Medium,Please assist. at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+295,TKT100294,UPI,High,I need help because today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+296,TKT100295,Loans,Medium,I need help because today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+297,TKT100296,Debit Card,High,Can you help me? at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+298,TKT100297,KYC,Medium,Urgent: at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+299,TKT100298,Debit Card,High,I need help because at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+300,TKT100299,KYC,Medium,I need help because while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+301,TKT100300,Debit Card,High,yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+302,TKT100301,Loans,Medium,Please assist. I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+303,TKT100302,Loans,Medium,while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+304,TKT100303,Debit Card,High,today I have a lost card issue.,Block your debit card immediately and request a replacement.
+305,TKT100304,Debit Card,High,Urgent: today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+306,TKT100305,UPI,High,Can you help me? yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+307,TKT100306,Debit Card,High,Urgent: yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+308,TKT100307,Debit Card,High,Please assist. yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+309,TKT100308,UPI,High,Can you help me? yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+310,TKT100309,Loans,Medium,I need help because today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+311,TKT100310,Debit Card,High,Please assist. yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+312,TKT100311,Loans,Medium,Can you help me? while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+313,TKT100312,UPI,High,I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+314,TKT100313,UPI,High,I need help because at an ATM I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+315,TKT100314,KYC,Medium,Urgent: I have a expired issue.,Update your KYC to avoid interruption of banking services.
+316,TKT100315,UPI,High,Urgent: yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+317,TKT100316,UPI,High,Urgent: while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+318,TKT100317,KYC,Medium,I need help because today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+319,TKT100318,KYC,Medium,today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+320,TKT100319,KYC,Medium,today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+321,TKT100320,UPI,High,Urgent: yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+322,TKT100321,UPI,High,Please assist. I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+323,TKT100322,Loans,Medium,Urgent: I have a loan statement issue.,Download it through internet banking or request it from your branch.
+324,TKT100323,Loans,Medium,Urgent: I have a loan statement issue.,Download it through internet banking or request it from your branch.
+325,TKT100324,KYC,Medium,I need help because I have a update issue.,Submit valid KYC documents online or at your branch.
+326,TKT100325,Debit Card,High,yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+327,TKT100326,KYC,Medium,at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+328,TKT100327,KYC,Medium,I need help because while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+329,TKT100328,KYC,Medium,Please assist. while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+330,TKT100329,Debit Card,High,today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+331,TKT100330,UPI,High,I need help because at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+332,TKT100331,UPI,High,Please assist. yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+333,TKT100332,UPI,High,Urgent: I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+334,TKT100333,Loans,Medium,I need help because at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+335,TKT100334,Loans,Medium,today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+336,TKT100335,Loans,Medium,Please assist. while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+337,TKT100336,UPI,High,Urgent: yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+338,TKT100337,Debit Card,High,yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+339,TKT100338,UPI,High,Urgent: while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+340,TKT100339,UPI,High,Urgent: yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+341,TKT100340,KYC,Medium,Urgent: I have a PAN update issue.,Submit your PAN update request with supporting documents.
+342,TKT100341,UPI,High,Please assist. today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+343,TKT100342,Debit Card,High,Please assist. while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+344,TKT100343,Loans,Medium,Can you help me? yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+345,TKT100344,KYC,Medium,Can you help me? today I have a update issue.,Submit valid KYC documents online or at your branch.
+346,TKT100345,UPI,High,Urgent: yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+347,TKT100346,KYC,Medium,while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+348,TKT100347,Debit Card,High,Please assist. while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+349,TKT100348,UPI,High,Can you help me? yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+350,TKT100349,UPI,High,I need help because while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+351,TKT100350,KYC,Medium,at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+352,TKT100351,KYC,Medium,Please assist. yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+353,TKT100352,UPI,High,today I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+354,TKT100353,Loans,Medium,Urgent: at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+355,TKT100354,Loans,Medium,Can you help me? at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+356,TKT100355,UPI,High,Can you help me? while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+357,TKT100356,Debit Card,High,Please assist. while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+358,TKT100357,Loans,Medium,I need help because at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+359,TKT100358,KYC,Medium,Can you help me? at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+360,TKT100359,Debit Card,High,Urgent: while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+361,TKT100360,UPI,High,I need help because at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+362,TKT100361,UPI,High,I need help because while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+363,TKT100362,KYC,Medium,at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+364,TKT100363,Loans,Medium,today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+365,TKT100364,Loans,Medium,Urgent: at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+366,TKT100365,Loans,Medium,today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+367,TKT100366,Debit Card,High,Urgent: at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+368,TKT100367,UPI,High,Please assist. while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+369,TKT100368,Debit Card,High,Can you help me? today I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+370,TKT100369,UPI,High,Urgent: yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+371,TKT100370,Loans,Medium,Can you help me? yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+372,TKT100371,UPI,High,Please assist. yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+373,TKT100372,Debit Card,High,Can you help me? today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+374,TKT100373,Debit Card,High,at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+375,TKT100374,KYC,Medium,Urgent: I have a PAN update issue.,Submit your PAN update request with supporting documents.
+376,TKT100375,Loans,Medium,Please assist. yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+377,TKT100376,KYC,Medium,at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+378,TKT100377,Loans,Medium,Urgent: today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+379,TKT100378,Loans,Medium,I need help because while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+380,TKT100379,KYC,Medium,I need help because today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+381,TKT100380,Loans,Medium,I need help because today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+382,TKT100381,KYC,Medium,Urgent: I have a expired issue.,Update your KYC to avoid interruption of banking services.
+383,TKT100382,UPI,High,Urgent: yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+384,TKT100383,Loans,Medium,I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+385,TKT100384,Debit Card,High,today I have a lost card issue.,Block your debit card immediately and request a replacement.
+386,TKT100385,Loans,Medium,I need help because I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+387,TKT100386,Debit Card,High,Can you help me? at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+388,TKT100387,KYC,Medium,Urgent: I have a PAN update issue.,Submit your PAN update request with supporting documents.
+389,TKT100388,Debit Card,High,Please assist. while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+390,TKT100389,KYC,Medium,Please assist. I have a expired issue.,Update your KYC to avoid interruption of banking services.
+391,TKT100390,UPI,High,Please assist. today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+392,TKT100391,Loans,Medium,Urgent: at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+393,TKT100392,Loans,Medium,Urgent: yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+394,TKT100393,Loans,Medium,Urgent: yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+395,TKT100394,Loans,Medium,yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+396,TKT100395,UPI,High,Urgent: at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+397,TKT100396,Loans,Medium,Urgent: today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+398,TKT100397,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+399,TKT100398,Loans,Medium,Can you help me? yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+400,TKT100399,Loans,Medium,Can you help me? yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+401,TKT100400,Debit Card,High,I need help because while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+402,TKT100401,UPI,High,Urgent: I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+403,TKT100402,UPI,High,Please assist. I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+404,TKT100403,Debit Card,High,yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+405,TKT100404,Debit Card,High,Urgent: yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+406,TKT100405,KYC,Medium,while using mobile banking I have a update issue.,Submit valid KYC documents online or at your branch.
+407,TKT100406,Debit Card,High,Urgent: while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+408,TKT100407,KYC,Medium,Urgent: yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+409,TKT100408,Loans,Medium,Can you help me? while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+410,TKT100409,KYC,Medium,Please assist. at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+411,TKT100410,KYC,Medium,Can you help me? I have a update issue.,Submit valid KYC documents online or at your branch.
+412,TKT100411,Debit Card,High,I need help because at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+413,TKT100412,Loans,Medium,I need help because I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+414,TKT100413,UPI,High,I need help because yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+415,TKT100414,Loans,Medium,Urgent: yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+416,TKT100415,KYC,Medium,Can you help me? at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+417,TKT100416,Loans,Medium,today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+418,TKT100417,KYC,Medium,Please assist. yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+419,TKT100418,KYC,Medium,Please assist. yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+420,TKT100419,UPI,High,I need help because while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+421,TKT100420,Debit Card,High,I need help because while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+422,TKT100421,KYC,Medium,Can you help me? at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+423,TKT100422,KYC,Medium,I need help because today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+424,TKT100423,UPI,High,Can you help me? yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+425,TKT100424,KYC,Medium,Please assist. yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+426,TKT100425,Loans,Medium,I need help because yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+427,TKT100426,KYC,Medium,Urgent: at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+428,TKT100427,UPI,High,I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+429,TKT100428,UPI,High,Urgent: I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+430,TKT100429,Debit Card,High,Can you help me? while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+431,TKT100430,KYC,Medium,Urgent: while using mobile banking I have a update issue.,Submit valid KYC documents online or at your branch.
+432,TKT100431,Debit Card,High,yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+433,TKT100432,UPI,High,Please assist. today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+434,TKT100433,UPI,High,today I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+435,TKT100434,KYC,Medium,Please assist. today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+436,TKT100435,Loans,Medium,Please assist. yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+437,TKT100436,UPI,High,Please assist. yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+438,TKT100437,UPI,High,Urgent: while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+439,TKT100438,Debit Card,High,at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+440,TKT100439,Debit Card,High,I need help because at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+441,TKT100440,UPI,High,Can you help me? today I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+442,TKT100441,Debit Card,High,Please assist. while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+443,TKT100442,KYC,Medium,while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+444,TKT100443,UPI,High,Can you help me? while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+445,TKT100444,Loans,Medium,Please assist. while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+446,TKT100445,UPI,High,at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+447,TKT100446,KYC,Medium,Please assist. yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+448,TKT100447,KYC,Medium,while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+449,TKT100448,Loans,Medium,today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+450,TKT100449,KYC,Medium,Can you help me? I have a PAN update issue.,Submit your PAN update request with supporting documents.
+451,TKT100450,Loans,Medium,I need help because today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+452,TKT100451,Loans,Medium,Please assist. while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+453,TKT100452,KYC,Medium,yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+454,TKT100453,KYC,Medium,today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+455,TKT100454,Loans,Medium,while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+456,TKT100455,UPI,High,while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+457,TKT100456,Debit Card,High,Can you help me? I have a lost card issue.,Block your debit card immediately and request a replacement.
+458,TKT100457,KYC,Medium,Can you help me? today I have a update issue.,Submit valid KYC documents online or at your branch.
+459,TKT100458,Debit Card,High,Please assist. while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+460,TKT100459,KYC,Medium,I need help because I have a PAN update issue.,Submit your PAN update request with supporting documents.
+461,TKT100460,Debit Card,High,while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+462,TKT100461,Loans,Medium,I need help because I have a loan statement issue.,Download it through internet banking or request it from your branch.
+463,TKT100462,Debit Card,High,Please assist. at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+464,TKT100463,Loans,Medium,Please assist. yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+465,TKT100464,UPI,High,Can you help me? at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+466,TKT100465,KYC,Medium,I need help because while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+467,TKT100466,Loans,Medium,yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+468,TKT100467,Loans,Medium,yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+469,TKT100468,UPI,High,I need help because at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+470,TKT100469,Debit Card,High,today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+471,TKT100470,Loans,Medium,Please assist. today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+472,TKT100471,Loans,Medium,Can you help me? yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+473,TKT100472,Loans,Medium,Can you help me? today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+474,TKT100473,Debit Card,High,Can you help me? at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+475,TKT100474,UPI,High,Urgent: I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+476,TKT100475,Loans,Medium,Urgent: yesterday I have a loan statement issue.,Download it through internet banking or request it from your branch.
+477,TKT100476,UPI,High,Please assist. at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+478,TKT100477,KYC,Medium,at an ATM I have a PAN update issue.,Submit your PAN update request with supporting documents.
+479,TKT100478,UPI,High,Please assist. today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+480,TKT100479,KYC,Medium,Urgent: while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+481,TKT100480,Debit Card,High,Urgent: yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+482,TKT100481,Debit Card,High,Urgent: today I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+483,TKT100482,UPI,High,Can you help me? while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+484,TKT100483,Debit Card,High,Please assist. yesterday I have a lost card issue.,Block your debit card immediately and request a replacement.
+485,TKT100484,Loans,Medium,Please assist. today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+486,TKT100485,Loans,Medium,Urgent: while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+487,TKT100486,Debit Card,High,Please assist. I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+488,TKT100487,UPI,High,Can you help me? I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+489,TKT100488,Debit Card,High,Urgent: I have a lost card issue.,Block your debit card immediately and request a replacement.
+490,TKT100489,Loans,Medium,I need help because today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+491,TKT100490,UPI,High,Urgent: while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+492,TKT100491,Debit Card,High,I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+493,TKT100492,UPI,High,Urgent: while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+494,TKT100493,Loans,Medium,Can you help me? at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+495,TKT100494,Loans,Medium,I need help because today I have a loan statement issue.,Download it through internet banking or request it from your branch.
+496,TKT100495,Debit Card,High,at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+497,TKT100496,KYC,Medium,Please assist. I have a update issue.,Submit valid KYC documents online or at your branch.
+498,TKT100497,Debit Card,High,Please assist. while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+499,TKT100498,KYC,Medium,Please assist. I have a update issue.,Submit valid KYC documents online or at your branch.
+500,TKT100499,UPI,High,Can you help me? at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+501,TKT100500,UPI,High,yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+502,TKT100501,Debit Card,High,I need help because while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+503,TKT100502,KYC,Medium,yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+504,TKT100503,Debit Card,High,Urgent: while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+505,TKT100504,Debit Card,High,I have a lost card issue.,Block your debit card immediately and request a replacement.
+506,TKT100505,KYC,Medium,Please assist. at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+507,TKT100506,UPI,High,I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+508,TKT100507,KYC,Medium,Can you help me? I have a update issue.,Submit valid KYC documents online or at your branch.
+509,TKT100508,Loans,Medium,I need help because while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+510,TKT100509,KYC,Medium,while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+511,TKT100510,UPI,High,yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+512,TKT100511,Loans,Medium,Please assist. at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+513,TKT100512,Loans,Medium,today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+514,TKT100513,Debit Card,High,Urgent: while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+515,TKT100514,UPI,High,Urgent: at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+516,TKT100515,Loans,Medium,Urgent: today I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+517,TKT100516,Debit Card,High,while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+518,TKT100517,Loans,Medium,Please assist. yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+519,TKT100518,Debit Card,High,Urgent: at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+520,TKT100519,UPI,High,I need help because yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+521,TKT100520,Loans,Medium,Urgent: at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+522,TKT100521,Debit Card,High,Urgent: yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+523,TKT100522,Loans,Medium,Please assist. yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+524,TKT100523,KYC,Medium,Please assist. I have a PAN update issue.,Submit your PAN update request with supporting documents.
+525,TKT100524,Loans,Medium,Urgent: I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+526,TKT100525,KYC,Medium,Urgent: while using mobile banking I have a PAN update issue.,Submit your PAN update request with supporting documents.
+527,TKT100526,KYC,Medium,Please assist. while using mobile banking I have a update issue.,Submit valid KYC documents online or at your branch.
+528,TKT100527,UPI,High,Urgent: while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+529,TKT100528,UPI,High,while using mobile banking I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+530,TKT100529,Debit Card,High,I need help because I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+531,TKT100530,KYC,Medium,Urgent: I have a update issue.,Submit valid KYC documents online or at your branch.
+532,TKT100531,KYC,Medium,Can you help me? today I have a update issue.,Submit valid KYC documents online or at your branch.
+533,TKT100532,UPI,High,I need help because at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+534,TKT100533,Loans,Medium,Can you help me? at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+535,TKT100534,Debit Card,High,Urgent: I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+536,TKT100535,KYC,Medium,I need help because yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+537,TKT100536,Debit Card,High,Please assist. at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+538,TKT100537,KYC,Medium,Can you help me? at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+539,TKT100538,Loans,Medium,Please assist. while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+540,TKT100539,KYC,Medium,Can you help me? while using mobile banking I have a update issue.,Submit valid KYC documents online or at your branch.
+541,TKT100540,Loans,Medium,Please assist. while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+542,TKT100541,Debit Card,High,while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+543,TKT100542,KYC,Medium,Urgent: while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+544,TKT100543,Loans,Medium,Urgent: I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+545,TKT100544,KYC,Medium,Please assist. yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+546,TKT100545,Loans,Medium,Please assist. today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+547,TKT100546,Loans,Medium,Please assist. at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+548,TKT100547,Debit Card,High,Urgent: while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+549,TKT100548,Loans,Medium,I need help because I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+550,TKT100549,Debit Card,High,I need help because I have a lost card issue.,Block your debit card immediately and request a replacement.
+551,TKT100550,Debit Card,High,Can you help me? today I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+552,TKT100551,UPI,High,Please assist. at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+553,TKT100552,UPI,High,Can you help me? today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+554,TKT100553,Debit Card,High,at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+555,TKT100554,Debit Card,High,Please assist. while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+556,TKT100555,UPI,High,Urgent: yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+557,TKT100556,UPI,High,yesterday I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+558,TKT100557,UPI,High,yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+559,TKT100558,Loans,Medium,I need help because while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+560,TKT100559,UPI,High,Please assist. at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+561,TKT100560,KYC,Medium,Urgent: at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+562,TKT100561,Loans,Medium,I need help because while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+563,TKT100562,Debit Card,High,while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+564,TKT100563,Debit Card,High,Please assist. while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+565,TKT100564,Debit Card,High,Urgent: at an ATM I have a lost card issue.,Block your debit card immediately and request a replacement.
+566,TKT100565,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+567,TKT100566,KYC,Medium,I need help because yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+568,TKT100567,Debit Card,High,Please assist. yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+569,TKT100568,UPI,High,yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+570,TKT100569,KYC,Medium,Please assist. while using mobile banking I have a expired issue.,Update your KYC to avoid interruption of banking services.
+571,TKT100570,UPI,High,Please assist. yesterday I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+572,TKT100571,UPI,High,I need help because at an ATM I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+573,TKT100572,Loans,Medium,I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+574,TKT100573,Loans,Medium,I need help because while using mobile banking I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+575,TKT100574,Loans,Medium,Can you help me? yesterday I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+576,TKT100575,Debit Card,High,Can you help me? at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+577,TKT100576,Loans,Medium,Urgent: at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+578,TKT100577,Debit Card,High,Urgent: today I have a lost card issue.,Block your debit card immediately and request a replacement.
+579,TKT100578,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+580,TKT100579,UPI,High,Urgent: I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+581,TKT100580,Debit Card,High,Urgent: yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+582,TKT100581,Debit Card,High,Urgent: at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+583,TKT100582,UPI,High,Can you help me? I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+584,TKT100583,KYC,Medium,Urgent: at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+585,TKT100584,UPI,High,Can you help me? I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+586,TKT100585,KYC,Medium,Urgent: today I have a expired issue.,Update your KYC to avoid interruption of banking services.
+587,TKT100586,KYC,Medium,Please assist. today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+588,TKT100587,KYC,Medium,I need help because yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+589,TKT100588,UPI,High,while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+590,TKT100589,UPI,High,I need help because today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+591,TKT100590,KYC,Medium,Please assist. at an ATM I have a update issue.,Submit valid KYC documents online or at your branch.
+592,TKT100591,Debit Card,High,while using mobile banking I have a lost card issue.,Block your debit card immediately and request a replacement.
+593,TKT100592,KYC,Medium,at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+594,TKT100593,UPI,High,Urgent: yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+595,TKT100594,Loans,Medium,Can you help me? I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+596,TKT100595,KYC,Medium,Can you help me? yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+597,TKT100596,UPI,High,Please assist. at an ATM I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+598,TKT100597,KYC,Medium,yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+599,TKT100598,Debit Card,High,Please assist. yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+600,TKT100599,Loans,Medium,I need help because today I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+601,TKT100600,KYC,Medium,I need help because yesterday I have a PAN update issue.,Submit your PAN update request with supporting documents.
+602,TKT100601,Debit Card,High,I need help because I have a lost card issue.,Block your debit card immediately and request a replacement.
+603,TKT100602,UPI,High,Urgent: today I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+604,TKT100603,Debit Card,High,I need help because at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+605,TKT100604,KYC,Medium,Urgent: yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+606,TKT100605,UPI,High,Urgent: while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+607,TKT100606,Debit Card,High,Urgent: while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+608,TKT100607,Loans,Medium,Please assist. yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+609,TKT100608,Debit Card,High,Please assist. while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+610,TKT100609,UPI,High,Urgent: yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+611,TKT100610,KYC,Medium,today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+612,TKT100611,Loans,Medium,I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+613,TKT100612,Loans,Medium,at an ATM I have a EMI issue.,"EMI depends on the loan amount, tenure, and interest rate."
+614,TKT100613,Debit Card,High,yesterday I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+615,TKT100614,KYC,Medium,Can you help me? while using mobile banking I have a update issue.,Submit valid KYC documents online or at your branch.
+616,TKT100615,Debit Card,High,I need help because I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+617,TKT100616,KYC,Medium,Urgent: I have a expired issue.,Update your KYC to avoid interruption of banking services.
+618,TKT100617,Debit Card,High,Can you help me? while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+619,TKT100618,Debit Card,High,I need help because at an ATM I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+620,TKT100619,Loans,Medium,Urgent: yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+621,TKT100620,UPI,High,I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+622,TKT100621,UPI,High,Can you help me? I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+623,TKT100622,Debit Card,High,Can you help me? while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+624,TKT100623,Loans,Medium,Can you help me? yesterday I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+625,TKT100624,UPI,High,yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+626,TKT100625,Debit Card,High,Can you help me? I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+627,TKT100626,Loans,Medium,at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+628,TKT100627,Loans,Medium,Please assist. while using mobile banking I have a loan statement issue.,Download it through internet banking or request it from your branch.
+629,TKT100628,KYC,Medium,I need help because at an ATM I have a expired issue.,Update your KYC to avoid interruption of banking services.
+630,TKT100629,Loans,Medium,Please assist. while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+631,TKT100630,KYC,Medium,Urgent: yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+632,TKT100631,Debit Card,High,Please assist. I have a lost card issue.,Block your debit card immediately and request a replacement.
+633,TKT100632,KYC,Medium,Can you help me? yesterday I have a expired issue.,Update your KYC to avoid interruption of banking services.
+634,TKT100633,Loans,Medium,I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+635,TKT100634,Debit Card,High,Urgent: while using mobile banking I have a unauthorized transaction issue.,Block the card and report the disputed transaction for investigation.
+636,TKT100635,Loans,Medium,at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+637,TKT100636,Debit Card,High,Please assist. yesterday I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+638,TKT100637,Debit Card,High,Urgent: at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+639,TKT100638,Debit Card,High,I need help because I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+640,TKT100639,UPI,High,I need help because today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+641,TKT100640,KYC,Medium,Can you help me? today I have a update issue.,Submit valid KYC documents online or at your branch.
+642,TKT100641,Debit Card,High,Can you help me? I have a lost card issue.,Block your debit card immediately and request a replacement.
+643,TKT100642,KYC,Medium,I need help because I have a expired issue.,Update your KYC to avoid interruption of banking services.
+644,TKT100643,KYC,Medium,today I have a PAN update issue.,Submit your PAN update request with supporting documents.
+645,TKT100644,UPI,High,Urgent: at an ATM I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+646,TKT100645,UPI,High,Urgent: while using mobile banking I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+647,TKT100646,Loans,Medium,Urgent: at an ATM I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+648,TKT100647,Debit Card,High,I need help because I have a lost card issue.,Block your debit card immediately and request a replacement.
+649,TKT100648,Debit Card,High,Can you help me? I have a lost card issue.,Block your debit card immediately and request a replacement.
+650,TKT100649,Loans,Medium,Please assist. at an ATM I have a loan statement issue.,Download it through internet banking or request it from your branch.
+651,TKT100650,UPI,High,at an ATM I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+652,TKT100651,Debit Card,High,Can you help me? while using mobile banking I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+653,TKT100652,UPI,High,I need help because today I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+654,TKT100653,KYC,Medium,I have a expired issue.,Update your KYC to avoid interruption of banking services.
+655,TKT100654,KYC,Medium,I need help because yesterday I have a update issue.,Submit valid KYC documents online or at your branch.
+656,TKT100655,UPI,High,while using mobile banking I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+657,TKT100656,UPI,High,I need help because yesterday I have a pending transaction issue.,Wait until the current transaction is completed. Do not retry the payment immediately.
+658,TKT100657,Debit Card,High,Urgent: at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+659,TKT100658,Loans,Medium,I need help because while using mobile banking I have a personal loan issue.,Apply online or at a branch. Eligibility depends on bank policy.
+660,TKT100659,UPI,High,Please assist. today I have a payment failed issue.,Check the transaction status in your UPI app. Failed transactions are normally reversed automatically. Raise a dispute if the amount is not refunded within the expected timeline.
+661,TKT100660,Debit Card,High,Can you help me? at an ATM I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+662,TKT100661,UPI,High,Can you help me? I have a wrong UPI ID issue.,Contact your bank immediately. Recovery depends on the transaction status and beneficiary approval.
+663,TKT100662,Debit Card,High,I have a PIN forgotten issue.,Reset your ATM PIN using supported banking channels.
+664,TKT100663,Loans,Medium,Can you help me? today I have a loan statement issue.,Download it through internet banking or request it from your branch.
