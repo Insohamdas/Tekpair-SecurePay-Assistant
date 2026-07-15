@@ -580,16 +580,22 @@ body {
   .shell {
     padding: 0;
     height: 100vh;
+    height: 100dvh;
+    min-height: 100dvh;
+    max-height: 100dvh;
     max-width: 100%;
     align-items: stretch;
+    overflow: hidden;
   }
   
   .chat-app-window {
     border-radius: 0;
     border: none;
     height: 100vh;
-    max-height: 100vh;
+    height: 100dvh;
+    max-height: 100dvh;
     box-shadow: none;
+    overflow: hidden;
   }
   
   .window-sidebar {
@@ -597,33 +603,69 @@ body {
   }
   
   .window-main {
-    padding: 16px 20px;
+    padding: 12px 16px 8px 16px;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
   }
   
   .chat-window {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
     padding-right: 0;
+    flex: 1;
+    overflow-y: auto;
   }
 }
 
 @media (max-width: 600px) {
+  :root {
+    --bg-app: #080A10;
+    --bg-card: #0E121B;
+    --text-main: #F1F5F9;
+    --text-muted: #94A3B8;
+    --border-color: rgba(255, 255, 255, 0.08);
+    --border-active: rgba(255, 255, 255, 0.2);
+    --bubble-user: rgba(255, 255, 255, 0.1);
+    --bubble-bot: #161B26;
+    --shadow-sm: 0 4px 20px rgba(0, 0, 0, 0.25);
+  }
+
+  body {
+    background-color: var(--bg-app);
+  }
+
+  .window-main {
+    background: radial-gradient(circle at 85% 10%, rgba(99, 102, 241, 0.15) 0%, transparent 45%),
+                radial-gradient(circle at 15% 85%, rgba(217, 70, 239, 0.12) 0%, transparent 50%),
+                #080A10;
+    padding: 12px 16px 8px 16px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
   .window-header {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    padding-bottom: 12px;
-    margin-bottom: 16px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
     gap: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
   }
   
   .brand-logo-container {
-    width: 32px;
-    height: 32px;
+    width: 28px;
+    height: 28px;
+    filter: drop-shadow(0 0 6px rgba(99, 102, 241, 0.5));
   }
   
   .brand-text h1 {
     font-size: 0.95rem;
+    font-weight: 800;
+    color: #F8FAFC;
   }
   
   .brand-tagline {
@@ -631,26 +673,18 @@ body {
   }
   
   .assistant-node-status {
-    text-align: right;
-  }
-  
-  .assistant-node-status h2 {
-    font-size: 0.85rem;
-  }
-  
-  .assistant-node-status p {
-    font-size: 0.65rem;
-    white-space: nowrap;
+    display: none; /* Hide redundant status card on phones to maximize space */
   }
   
   .chat-prompts {
     gap: 6px;
-    margin-bottom: 12px;
+    margin-bottom: 8px;
     overflow-x: auto;
     flex-wrap: nowrap;
     -webkit-overflow-scrolling: touch;
-    padding-bottom: 4px;
+    padding-bottom: 6px;
     width: 100%;
+    scrollbar-width: none;
   }
   
   .chat-prompts::-webkit-scrollbar {
@@ -658,27 +692,102 @@ body {
   }
   
   .prompt-chip {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #E2E8F0;
     padding: 6px 12px;
     font-size: 0.72rem;
     white-space: nowrap;
     flex-shrink: 0;
+    border-radius: 16px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .prompt-chip:hover, .prompt-chip:active {
+    background: rgba(99, 102, 241, 0.12);
+    border-color: rgba(99, 102, 241, 0.4);
+    color: #FFFFFF;
+    box-shadow: 0 0 8px rgba(99, 102, 241, 0.2);
+  }
+
+  .chip-icon {
+    color: #94A3B8;
+  }
+
+  .prompt-chip:hover .chip-icon, .prompt-chip:active .chip-icon {
+    color: #818CF8;
   }
   
   .message {
-    max-width: 90%;
+    max-width: 88%;
     padding: 10px 14px;
     font-size: 0.88rem;
+    line-height: 1.45;
+    border-radius: 12px;
+    border: 1px solid transparent;
+  }
+
+  .message.user {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.06) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #F8FAFC;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .message.bot {
+    background: rgba(22, 27, 38, 0.75);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    color: #E2E8F0;
+    border-left: 3px solid #818CF8; /* Gemini Violet indicator line */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .chat-window::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.12);
+  }
+  
+  .chat-window::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.22);
+  }
+  
+  .chat-form {
+    flex-shrink: 0;
+    padding-bottom: env(safe-area-inset-bottom, 6px);
+    background: transparent;
   }
   
   .chat-input {
-    height: 44px;
+    height: 42px;
     font-size: 0.88rem;
-    padding: 0 46px 0 14px;
+    padding: 0 46px 0 16px;
+    border-radius: 20px; /* Modern rounded pill-shape */
+    background: rgba(22, 27, 38, 0.7);
+    border: 1.5px solid rgba(255, 255, 255, 0.08);
+    color: #FFFFFF;
+    transition: all 0.3s ease;
+  }
+
+  .chat-input:focus {
+    border-color: rgba(99, 102, 241, 0.6);
+    box-shadow: 0 0 12px rgba(99, 102, 241, 0.25);
+  }
+
+  .chat-input::placeholder {
+    color: #64748B;
   }
   
   .submit-button {
     width: 28px;
     height: 28px;
+    border-radius: 50%; /* Circular send button */
     right: 8px;
+    background: linear-gradient(135deg, #6366F1 0%, #D946EF 100%); /* Gemini Neon Gradient */
+    border: none;
+    box-shadow: 0 0 8px rgba(99, 102, 241, 0.35);
+  }
+
+  .submit-button:hover, .submit-button:active {
+    transform: scale(1.05);
+    box-shadow: 0 0 12px rgba(99, 102, 241, 0.5);
   }
 }
