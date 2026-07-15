@@ -34,7 +34,7 @@ Tekpair-SecurePay-Assistant/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Production documentation
 ├── dataset/
-│   └── banking_support.csv     # Trimmed 100KB support tickets dataset
+│   └── banking_support.csv     # Trimmed 1.8 MB support tickets dataset
 └── frontend/
     ├── index.html              # Chat GUI markup
     ├── style.css               # Clean vanilla CSS with glassmorphic styles
