@@ -578,54 +578,107 @@ body {
 /* Responsive Window Details */
 @media (max-width: 900px) {
   .shell {
-    padding: 20px;
-    height: auto;
-    min-height: 100vh;
+    padding: 0;
+    height: 100vh;
+    max-width: 100%;
+    align-items: stretch;
   }
   
   .chat-app-window {
-    flex-direction: column;
-    height: auto;
+    border-radius: 0;
+    border: none;
+    height: 100vh;
+    max-height: 100vh;
+    box-shadow: none;
   }
   
   .window-sidebar {
-    width: 100%;
-    border-right: none;
-    border-bottom: 1px solid var(--border-color);
-    padding: 24px;
-    gap: 20px;
-  }
-  
-  .carousel-container {
-    height: 300px;
+    display: none; /* Hide the sidebar (carousel) on mobile/tablet */
   }
   
   .window-main {
-    padding: 28px 24px;
+    padding: 16px 20px;
+    height: 100%;
+  }
+  
+  .chat-window {
+    margin-bottom: 12px;
+    padding-right: 0;
   }
 }
 
 @media (max-width: 600px) {
-  .carousel-container {
-    height: 240px;
+  .window-header {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+    gap: 8px;
   }
   
-  .window-header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 16px;
+  .brand-logo-container {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .brand-text h1 {
+    font-size: 0.95rem;
+  }
+  
+  .brand-tagline {
+    display: none; /* Hide tagline on tiny screens to save space */
   }
   
   .assistant-node-status {
-    text-align: left;
+    text-align: right;
+  }
+  
+  .assistant-node-status h2 {
+    font-size: 0.85rem;
+  }
+  
+  .assistant-node-status p {
+    font-size: 0.65rem;
+    white-space: nowrap;
   }
   
   .chat-prompts {
     gap: 6px;
+    margin-bottom: 12px;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+    width: 100%;
+  }
+  
+  .chat-prompts::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for prompts */
   }
   
   .prompt-chip {
     padding: 6px 12px;
-    font-size: 0.75rem;
+    font-size: 0.72rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  
+  .message {
+    max-width: 90%;
+    padding: 10px 14px;
+    font-size: 0.88rem;
+  }
+  
+  .chat-input {
+    height: 44px;
+    font-size: 0.88rem;
+    padding: 0 46px 0 14px;
+  }
+  
+  .submit-button {
+    width: 28px;
+    height: 28px;
+    right: 8px;
   }
 }
