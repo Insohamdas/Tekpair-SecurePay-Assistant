@@ -89,6 +89,35 @@ input.addEventListener('keydown', (event) => {
   }
 });
 
+// Keep the mobile composer above the on-screen keyboard.
+if (window.visualViewport) {
+  const shell = document.querySelector('.shell');
+  const isMobileLayout = () => window.matchMedia('(max-width: 600px)').matches;
+
+  const updateKeyboardOffset = () => {
+    const vv = window.visualViewport;
+    const keyboardOffset = Math.max(0, window.innerHeight - vv.height - vv.offsetTop);
+
+    document.documentElement.style.setProperty('--keyboard-offset', `${keyboardOffset}px`);
+
+    if (shell && isMobileLayout()) {
+      shell.style.position = 'fixed';
+      shell.style.top = '0';
+      shell.style.left = '0';
+      shell.style.right = '0';
+      shell.style.bottom = `${keyboardOffset}px`;
+    }
+
+    setTimeout(() => scrollToBottom(), 50);
+  };
+
+  window.visualViewport.addEventListener('resize', updateKeyboardOffset);
+  window.visualViewport.addEventListener('scroll', updateKeyboardOffset);
+  window.addEventListener('orientationchange', updateKeyboardOffset);
+  window.addEventListener('resize', updateKeyboardOffset);
+  updateKeyboardOffset();
+}
+
 clearChat();
 createMessage('Namaste! Welcome to NYC Tekpair Bharat support. Ask anything about failed UPI payments, RuPay/Visa cards, or account queries.', 'bot');
 

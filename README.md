@@ -4,6 +4,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V6C023AJIF)
 
 **Tekpair SecurePay Assistant** is an intelligent, high-performance banking chatbot web application built with a FastAPI backend and a premium, responsive glassmorphic frontend. It leverages a hybrid classification engine combining rule-based heuristics and a machine learning fallback (SVM + TF-IDF) with off-topic boundary detection to accurately assist users with account inquiries, UPI issues, loan services, cards, and more.
 
