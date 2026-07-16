@@ -27,7 +27,7 @@
 ## 📂 Project Structure
 
 ```bash
-Tekpair-SecurePay-Assistant/
+tekpair-securepay-assistant/
 ├── app.py                      # FastAPI server & hybrid prediction router
 ├── responses.csv               # Category-to-response mapping dataset
 ├── banking_model.pkl           # Trained scikit-learn SVM model
@@ -51,8 +51,8 @@ Ensure you have **Python 3.9+** installed on your system.
 
 ### 1. Clone & Navigate to the Repository
 ```bash
-git clone https://github.com/Insohamdas/Tekpair-SecurePay-Assistant.git
-cd Tekpair-SecurePay-Assistant
+git clone https://github.com/Insohamdas/tekpair-securepay-assistant.git
+cd tekpair-securepay-assistant
 ```
 
 ### 2. Create and Activate Virtual Environment
